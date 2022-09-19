@@ -1,4 +1,4 @@
-### Hi there 👋
+### Таким и должно стать всё ПО по функциональности через 200 лет..
 
 <!--
 **MaminHecker/MaminHecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
